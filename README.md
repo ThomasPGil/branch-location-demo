@@ -1,5 +1,7 @@
 # Branch Location Demo
 
+##AI was used for this README EXCEPT for the Production Improvements list.
+
 This project creates a REST API for storing and retrieving branch locations.
 
 When a location is created or updated, the API uses OpenStreetMap Nominatim to find the latitude and longitude for the supplied city, state, and country. The complete location is then stored in DynamoDB.
