@@ -1,6 +1,6 @@
 # Branch Location Demo
 
-##AI was used for this README EXCEPT for the Production Improvements list.
+## AI was used for this README EXCEPT for the Production Improvements list.
 
 This project creates a REST API for storing and retrieving branch locations.
 
